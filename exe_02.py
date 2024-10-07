@@ -1,5 +1,7 @@
 # Criar um programa aonde o usuário digite dois valores e apreça a soma 
 
+print("Bem-vindo ao código de somar.")
+
 valor_01 = input("Digite um valor: ")
 
 valor_02 = input("Digite um valor: ")
